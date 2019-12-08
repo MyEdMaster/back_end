@@ -100,11 +100,3 @@ class feedback_CN:
 
     def __init__(self, core):
         self.core = core
-
-
-#
-#
-# tmp = similarity_core.similarity_core()
-# tmp2 = feedback_CN(tmp)
-#
-# print(tmp2.checkanswer("When you divide two complex numbers, the numerator has the form a+bi and the denominator has the form c+di", 0))

@@ -194,7 +194,7 @@ class similarity_core:
             ssl._create_default_https_context = _create_unverified_https_context
 
         PATH_TO_WORD2VEC = os.path.expanduser(
-            "data/GoogleNews-vectors-negative300.bin")
+            "../data/GoogleNews-vectors-negative300.bin")
         self.word2vec = models.KeyedVectors.load_word2vec_format(PATH_TO_WORD2VEC, binary=True)
 
 #
