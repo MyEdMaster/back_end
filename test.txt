@@ -1,0 +1,13 @@
+When you divide two complex numbers, the numerator has the form a+bi and the denominator has the form c+di
+a, b, c, and d are real numbers. They can be positive or negative. Often they are integers.
+I is the square root of minus 1
+When you divide two complex numbers, your primary goal is to rationalize the denominator.
+To rationalize the denominator, you divide both numerator and denominator by the conjugate of the denominator.
+The conjugate is the complex number with sign between real and imaginary part changed.
+If the denominator is represented by the expression c+di, its conjugate is c-di.
+Once you set up the problem to multiply the numerator and denominator by the conjugate of the denominator, you use FOIL to carry out the multiplication
+FOIL stands for First, Outer, Inner, Last. It comes from the distributive property.
+When you FOIL the numerator you get (ac-adi+bci-bdi^2) which equals ac-adi+bci+bd
+When you FOIL the denominator you get (c^2-cdi+cdi-d^2i^2)” or “(c^-cdi+cdi+d^2)
+After you have FOILed the numerator and denominator, you combine like terms.
+After you combine like terms, you get ((ac+bd)+(bc-ad)i)/(c^2+d^2)
