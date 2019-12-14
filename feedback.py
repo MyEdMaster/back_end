@@ -3,12 +3,7 @@
 import random
 import similarity_core
 import json
-# question_list = []
-#
-# answer_list1 = []
-# answer_list2 = []
-# #
-# # function ()
+
 
 
 question_list = [
