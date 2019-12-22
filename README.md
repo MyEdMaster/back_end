@@ -16,3 +16,6 @@ https://app.swaggerhub.com/apis/YihaoGuo2018/education/1.0.0
 
 ## little red hood
 https://docs.google.com/spreadsheets/d/1ElOgBEq2sqqmakpBeOX0myTXwD1J-dsT0stSCC1fYSs/edit?folder=1ISpusblF_l0-Rs1Gd_Y5RZHkpBO9RWEG#gid=0
+
+## complex number 
+https://docs.google.com/spreadsheets/d/11rL-Z6TkgkUJjb6bDYZpv5RH68u1WQD5J7kgcCASWFA/edit?folder=1ISpusblF_l0-Rs1Gd_Y5RZHkpBO9RWEG#gid=1679659599
