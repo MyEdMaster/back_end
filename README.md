@@ -19,3 +19,6 @@ https://docs.google.com/spreadsheets/d/1ElOgBEq2sqqmakpBeOX0myTXwD1J-dsT0stSCC1f
 
 ## complex number 
 https://docs.google.com/spreadsheets/d/11rL-Z6TkgkUJjb6bDYZpv5RH68u1WQD5J7kgcCASWFA/edit?folder=1ISpusblF_l0-Rs1Gd_Y5RZHkpBO9RWEG#gid=1679659599
+
+## complex number logical
+https://docs.google.com/spreadsheets/d/1QiyOXThgN328f4mPi8MGIwY72JDYEjNT9TpjSjdxmRk/edit?folder=1ISpusblF_l0-Rs1Gd_Y5RZHkpBO9RWEG#gid=0
