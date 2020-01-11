@@ -23,4 +23,12 @@ https://docs.google.com/spreadsheets/d/11rL-Z6TkgkUJjb6bDYZpv5RH68u1WQD5J7kgcCAS
 ## complex number division logical
 https://docs.google.com/spreadsheets/d/1QiyOXThgN328f4mPi8MGIwY72JDYEjNT9TpjSjdxmRk/edit?folder=1ISpusblF_l0-Rs1Gd_Y5RZHkpBO9RWEG#gid=0
 
-## complex number addition
+## complex number addition logical
+https://docs.google.com/spreadsheets/d/1P7e0EdpwWKiFeX1lTYebIjqZpc3E77pT_d5gi2963eE/edit#gid=0
+
+## complex number subtraction logical
+https://docs.google.com/spreadsheets/d/1-jIbMI5kCOoNeyzW5RYDuhUbjYzDlA9l9pIsgTPbbTQ/edit#gid=0
+
+
+## complex number multiplication logical
+https://docs.google.com/spreadsheets/d/18gnuWT9GYvWNOQXm_Y9KvfVw8cVFEojr0pcsJqpHi7Y/edit#gid=0
