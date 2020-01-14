@@ -32,3 +32,6 @@ https://docs.google.com/spreadsheets/d/1-jIbMI5kCOoNeyzW5RYDuhUbjYzDlA9l9pIsgTPb
 
 ## complex number multiplication logical
 https://docs.google.com/spreadsheets/d/18gnuWT9GYvWNOQXm_Y9KvfVw8cVFEojr0pcsJqpHi7Y/edit#gid=0
+
+## Multiplying Binomials Using FOIL
+https://docs.google.com/spreadsheets/d/1EOwLoFbgDCS6DJwhFlT_yvCUI-y-k_bv-rGZSjhTgYo/edit#gid=0
