@@ -35,3 +35,6 @@ https://docs.google.com/spreadsheets/d/18gnuWT9GYvWNOQXm_Y9KvfVw8cVFEojr0pcsJqpH
 
 ## Multiplying Binomials Using FOIL
 https://docs.google.com/spreadsheets/d/1EOwLoFbgDCS6DJwhFlT_yvCUI-y-k_bv-rGZSjhTgYo/edit#gid=0
+
+## preprocess
+https://docs.google.com/spreadsheets/d/1As5ZC4ZjoBZ1FLkCOhAYemtTaVROOBWZEGazCOn6y6I/edit#gid=0
