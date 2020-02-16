@@ -41,3 +41,6 @@ https://docs.google.com/spreadsheets/d/1As5ZC4ZjoBZ1FLkCOhAYemtTaVROOBWZEGazCOn6
 
 ## branch step
 https://docs.google.com/spreadsheets/d/1nfN05-B1Wi7flHJn-fpKk2bF73tRFQ-iVHREosRWZrU/edit#gid=0
+
+## problems
+https://docs.google.com/spreadsheets/d/1FcxXZOcPWYIxmYV867EqS_z0kq27UJWXj4PatyYpRm8/edit#gid=0
